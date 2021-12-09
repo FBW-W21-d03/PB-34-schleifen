@@ -9,7 +9,7 @@ console.log("**********");
 
 // Teil 2
 let sum = 0; // speichert (Teil-)Summe
-i = 0; // Weiterverwendung von i, daher kein let
+i = 1; // Weiterverwendung von i, daher kein let
 while (i <= 20) {
   sum = sum + i;
   i++;
