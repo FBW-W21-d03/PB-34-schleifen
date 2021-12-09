@@ -8,10 +8,6 @@ while ( i < 15) {
   console.log(i);
 }
 
-
-
-
-
 // Teil 2 )
 let sum = 0; 
 i = 1; 
